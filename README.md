@@ -23,6 +23,8 @@
 | 🏢 **Currently** | Building AI Applications @ CodeWords |
 | 🧩 **Focus** | LLM apps · scalable APIs · clean architecture |
 | ❤️ **Loves** | shipping fast · great DX · automating the boring stuff |
+| 🏆 **Awards** | 3× Hackathon Finalist — Google × Vercel · LangChain × SurrealDB · Cursor |
+| 🎓 **Education** | BSc Computer Science, University of Essex |
 | 🧠 **Philosophy** | Make it work, make it right, make it fast. |
 
 - 🔭 I build **AI-powered products** end to end — from LangChain pipelines to production APIs and Next.js frontends.
@@ -63,15 +65,14 @@
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![CodeWords](https://img.shields.io/badge/CodeWords-6E40C9?style=for-the-badge&logoColor=white)
 
-<!-- ====================== GITHUB STATS ====================== -->
-## 📊 GitHub Stats
+<!-- ====================== HIGHLIGHTED PROJECT ====================== -->
+## 🚀 Highlighted Project
 
-<div align="center">
+### 🛡️ Sentinel
 
-<img src="https://streak-stats.demolab.com?user=yakivets&theme=tokyonight&hide_border=true&background=0D1117&ring=00C9FF&fire=7928CA&currStreakLabel=00C9FF" alt="streak" />
-
-</div>
+> 🥈 **Runner-Up** at **Big Berlin Hack** by **@{Tech: Europe}**
 
 <!-- ====================== SNAKE ====================== -->
 ## 🐍 Contribution Graph
