@@ -20,7 +20,6 @@
 |  |  |
 |---|---|
 | 🎯 **Role** | Backend & Full-Stack Developer |
-| 🏢 **Currently** | Building AI Applications @ CodeWords |
 | 🧩 **Focus** | LLM apps · scalable APIs · clean architecture |
 | ❤️ **Loves** | shipping fast · great DX · automating the boring stuff |
 | 🏆 **Awards** | 3× Hackathon Finalist — Google × Vercel · LangChain × SurrealDB · Cursor |
