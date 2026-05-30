@@ -69,16 +69,7 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yakivets&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=7928CA&count_private=true" alt="stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakivets&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&langs_count=8" alt="top langs" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=yakivets&theme=tokyonight&hide_border=true&background=0D1117&ring=00C9FF&fire=7928CA&currStreakLabel=00C9FF" alt="streak" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=yakivets&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies" />
 
 </div>
 
