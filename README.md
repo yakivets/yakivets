@@ -15,7 +15,7 @@
 <!-- ====================== ABOUT ====================== -->
 ## 🧠 About me
 
-> 💡 **Building AI Applications @ CodeWords** — I take products from idea to production: LLM pipelines, scalable APIs, and polished Next.js frontends.
+> 💡 **Builder @ CodeWords** — I take products from idea to production: LLM pipelines, scalable APIs, and polished Next.js frontends.
 
 |  |  |
 |---|---|
