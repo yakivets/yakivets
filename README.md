@@ -30,7 +30,6 @@
 - 🔭 I build **AI-powered products** end to end — from LangChain pipelines to production APIs and Next.js frontends.
 - ⚡ Big on **developer velocity**: I pair with Claude Code, Codex & Cursor to ship more, faster.
 - 🌱 Always leveling up on **LLM systems, distributed services, and performance**.
-- 💬 Ask me about **backend architecture, AI integrations, or TypeScript**.
 
 <!-- ====================== TECH STACK ====================== -->
 ## 🛠️ Tech Stack
