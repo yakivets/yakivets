@@ -1,12 +1,12 @@
 <!-- ====================== HEADER ====================== -->
 <a href="https://github.com/yakivets">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:7928CA,100:00C9FF&height=200&section=header&text=Mykyta%20Yakivets&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Backend%20%26%20Full-Stack%20Developer&descSize=20&descAlignY=60&animation=fadeIn" alt="header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:7928CA,100:00C9FF&height=200&section=header&text=Mykyta%20Yakivets&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Building%20AI%20Applications%20%40%20CodeWords&descSize=20&descAlignY=60&animation=fadeIn" alt="header" />
 </a>
 
 <!-- ====================== TYPING INTRO ====================== -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00C9FF&center=true&vCenter=true&width=620&lines=Building+AI+products+%40+SalesApe;Backend+%26+Full-Stack+Developer;Turning+ideas+into+shipped+products;LLMs%2C+APIs%2C+and+clean+architecture)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00C9FF&center=true&vCenter=true&width=620&lines=Building+AI+Applications+%40+CodeWords;Backend+%26+Full-Stack+Developer;Turning+ideas+into+shipped+products;LLMs%2C+APIs%2C+and+clean+architecture)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=yakivets&label=Profile%20views&color=7928ca&style=flat-square" alt="profile views" />
 
@@ -15,15 +15,15 @@
 <!-- ====================== ABOUT ====================== -->
 ## 🧠 About me
 
-```ts
-const mykyta = {
-  role: "Backend & Full-Stack Developer",
-  currently: "Building AI products @ SalesApe 🦍",
-  focus: ["LLM apps", "scalable APIs", "clean architecture"],
-  loves: ["shipping fast", "good DX", "automating the boring stuff"],
-  philosophy: "Make it work, make it right, make it fast.",
-};
-```
+> 💡 **Building AI Applications @ CodeWords** — I take products from idea to production: LLM pipelines, scalable APIs, and polished Next.js frontends.
+
+|  |  |
+|---|---|
+| 🎯 **Role** | Backend & Full-Stack Developer |
+| 🏢 **Currently** | Building AI Applications @ CodeWords |
+| 🧩 **Focus** | LLM apps · scalable APIs · clean architecture |
+| ❤️ **Loves** | shipping fast · great DX · automating the boring stuff |
+| 🧠 **Philosophy** | Make it work, make it right, make it fast. |
 
 - 🔭 I build **AI-powered products** end to end — from LangChain pipelines to production APIs and Next.js frontends.
 - ⚡ Big on **developer velocity**: I pair with Claude Code, Codex & Cursor to ship more, faster.
