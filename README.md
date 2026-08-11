@@ -19,10 +19,10 @@
 
 |  |  |
 |---|---|
-| 🎯 **Role** | Backend & Full-Stack Developer |
+| 🎯 **Role** | Backend, Full-Stack Developer & AI Engineer|
 | 🧩 **Focus** | LLM apps · scalable APIs · clean architecture |
 | ❤️ **Loves** | shipping fast · great DX · automating the boring stuff |
-| 🏆 **Awards** | 3× Hackathon Finalist — Google × Vercel · LangChain × SurrealDB · Cursor |
+| 🏆 **Awards** | 5× Hackathon Finalist — Google × Vercel · LangChain × SurrealDB · Cursor |
 | 🎓 **Education** | BSc Computer Science, University of Essex |
 | 🧠 **Philosophy** | Make it work, make it right, make it fast. |
 
