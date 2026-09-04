@@ -1,6 +1,6 @@
 <!-- ====================== HEADER ====================== -->
 <a href="https://github.com/yakivets">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:7928CA,100:00C9FF&height=200&section=header&text=Mykyta%20Yakivets&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software Developer%20%40%20PortF&descSize=20&descAlignY=60&animation=fadeIn" alt="header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:7928CA,100:00C9FF&height=200&section=header&text=Mykyta%20Yakivets&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software%20Developer%20%40%20PortF&descSize=20&descAlignY=60&animation=fadeIn" alt="header" />
 </a>
 
 <!-- ====================== TYPING INTRO ====================== -->
