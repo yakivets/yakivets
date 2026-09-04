@@ -15,14 +15,14 @@
 <!-- ====================== ABOUT ====================== -->
 ## 🧠 About me
 
-> 💡 **Builder @ CodeWords** — I take products from idea to production: LLM pipelines, scalable APIs, and polished Next.js frontends.
+> 💡 **Software Developer @ PortF**
 
 |  |  |
 |---|---|
 | 🎯 **Role** | Backend, Full-Stack Developer & AI Engineer|
 | 🧩 **Focus** | LLM apps · scalable APIs · clean architecture |
 | ❤️ **Loves** | shipping fast · great DX · automating the boring stuff |
-| 🏆 **Awards** | 5× Hackathon Finalist — Google × Vercel · LangChain × SurrealDB · Cursor |
+| 🏆 **Awards** | 7× Hackathon Winner — Google × Vercel · LangChain × SurrealDB · Cursor · Anthropic |
 | 🎓 **Education** | BSc Computer Science, University of Essex |
 | 🧠 **Philosophy** | Make it work, make it right, make it fast. |
 
